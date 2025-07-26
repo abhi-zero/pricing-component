@@ -18,13 +18,13 @@ A modern, responsive pricing component that allows users to toggle between month
 
 ![Preview](./preview.png)
 
-> **Live Preview:** _Coming Soon!_
+> **Live Preview:** [Live Preview](https://componentprice.netlify.app/)
 
 To run locally:
 
 ```bash
-git clone https://github.com/abhi-zero/dev-journey.git
-cd dev-journey/mini-projects/pricing-component-with-toggle
+git clone https://github.com/abhi-zero/pricing-component.git
+cd pricing-component
 open index.html # Or use VS Code Live Server
 ```
 
